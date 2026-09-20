@@ -84,8 +84,9 @@ class Tag extends ResourceLocation {
    * @throws {Error} If the value is not a valid tag item or resource location.
    */ 
   addValue(value) {
-    this.#values 
-    this.#values.push(TagItem.fromValue(value, this.#type));
+    let item = TagItem.fromValue(value, this.#type);
+    if (this.hasValue(item)) return;
+    this.#values.add(item);
   }
 
   /**
@@ -112,9 +113,9 @@ class Tag extends ResourceLocation {
    * @returns {Promise<TagData>} A promise that resolves to a TagData instance.
    * @throws {Error} If the file cannot be parsed.
    */
-  loadFromFile(packPath, id, type) {
+  static loadFromFile(packPath, id, type) {
     let resloc = new ResourceLocation(id);
-    let data = await fs.promises.readFile(path.join(packPath, 'data', resloc.namespace, type, resloc.path + '.json'), 'utf8')
+    let data = fs.promises.readFile(path.join(packPath, 'data', resloc.namespace, type, resloc.path + '.json'), 'utf8')
         .then(JSON.parse)
         .catch(err => err.code === 'ENOENT' ? {replace: false, values: []} : Promise.reject(err))
         .then(d => new TagData(id, type, d.values ?? [], d.replace ?? false));
