@@ -29,7 +29,7 @@ class TagItem extends ResourceLocation {
    * @param {boolean} required Indicates whether the tag item is required.
    */
   constructor(id, type, required = false) {
-    if (!TagItem.validateType(type)) throw new Error(`Invalid tag type: ${type}`);
+    if (!TagItem.validateType(type)) throw new RangeError(`Invalid tag type: ${type}`);
     super(id);
     this.#type = type;
     this.#required = required;
@@ -60,7 +60,7 @@ class TagItem extends ResourceLocation {
         if (value instanceof TagItem && value.type === type) return value;
         return TagItem.fromObject(value, type);
       default:
-        throw new Error(`Invalid tag item value: ${value}`);
+        throw new TypeError(`Invalid tag item value: ${value}`);
     }
   }
 

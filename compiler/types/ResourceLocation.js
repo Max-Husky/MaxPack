@@ -53,7 +53,7 @@ class ResourceLocation {
    */
   constructor(id) {
     if (!ResourceLocation.validateId(id)) {
-      throw new Error(`Invalid resource location ID: ${id}`);
+      throw new RangeError(`Invalid resource location ID: ${id}`);
     }
     let arr = id.split(':');
     this.#isRef = arr[0].startsWith('#');

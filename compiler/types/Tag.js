@@ -29,16 +29,22 @@ class Tag extends ResourceLocation {
    * @readonly
    */
   get replace() {return this.#replace;}
+  set replace(value) {
+    if (typeof value !== 'boolean') throw new TypeError(`Invalid replace value: ${value}`);
+    this.#replace = value;
+  }
 
   /**
    * Returns an iterator for the tag values.
    * @type {Iterable<TagItem>}
+   * @readonly
    */
   get values() {return this[Symbol.iterator]();}
 
   /**
    * Returns an iterator for the tag values.
    * @returns {Iterable<TagItem>} An iterator for the tag values.
+   * @readonly
    */
   get [Symbol.iterator]() {return this.#values.iterator();}
 
@@ -50,8 +56,8 @@ class Tag extends ResourceLocation {
    * @param {boolean} replace Whether the tag is a replacement tag.
    */
   constructor(id, type, values = [], replace = false) {
-    if (!TagItem.validateType(type)) throw new Error(`Invalid tag type: ${type}`);
-    if (typeof replace !== 'boolean') throw new Error(`Invalid replace value: ${replace}`);
+    if (!TagItem.validateType(type)) throw new RangeError(`Invalid tag type: ${type}`);
+    if (typeof replace !== 'boolean') throw new TypeError(`Invalid replace value: ${replace}`);
     super(id);
     this.#type = type;
     this.#replace = replace;
@@ -96,13 +102,23 @@ class Tag extends ResourceLocation {
     return false;
   }
 
-  async loadFromFile(packPath, id, type) {
+  /**
+   * Loads a tag from a file.
+   * If the file does not exist, it will be created with an empty values, and the replace flag set to false.
+   * @async
+   * @param {string} packPath The path to the root of the datapack the resource is to be loaded from
+   * @param {string} id The resource id.
+   * @param {string} type The type of tag it is.
+   * @returns {Promise<TagData>} A promise that resolves to a TagData instance.
+   * @throws {Error} If the file cannot be parsed.
+   */
+  loadFromFile(packPath, id, type) {
     let resloc = new ResourceLocation(id);
     let data = await fs.promises.readFile(path.join(packPath, 'data', resloc.namespace, type, resloc.path + '.json'), 'utf8')
         .then(JSON.parse)
-        .catch(err => err.code === 'ENOENT' ? {replace: false, values: []} : Promise.reject(err));
-    return new Tag(id, type, data.values, data.replace);
-    
+        .catch(err => err.code === 'ENOENT' ? {replace: false, values: []} : Promise.reject(err))
+        .then(d => new TagData(id, type, d.values ?? [], d.replace ?? false));
+    return data;
   }
 }
 
