@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farm_and_charm:corn_bag",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:corn_crate",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn_cob_crate",
+      "required": false
+    }
+  ]
+}

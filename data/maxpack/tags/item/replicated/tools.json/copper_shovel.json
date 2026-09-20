@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "just_in_cave:copper_shovel",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:copper_shovel",
+      "required": false
+    }
+  ]
+}

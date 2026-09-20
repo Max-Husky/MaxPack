@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "quark:beetroot_crate",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:beetroot_bag",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:beetroot_crate",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:onion",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm_onion",
+      "required": false
+    }
+  ]
+}

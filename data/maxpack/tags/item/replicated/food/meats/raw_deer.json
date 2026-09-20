@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "environmental:venison",
+      "required": false
+    },
+    {
+      "id": "wildernature:venison",
+      "required": false
+    },
+    "#maxpack:replicated/raw_reindeer"
+  ]
+}

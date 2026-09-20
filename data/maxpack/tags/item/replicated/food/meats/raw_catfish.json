@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "sealife:catfish",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:raw_catfish",
+      "required": false
+    }
+  ]
+}

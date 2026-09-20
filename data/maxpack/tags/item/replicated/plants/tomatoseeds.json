@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:tomato_seeds",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:tomato_seeds",
+      "required": false
+    }
+  ]
+}

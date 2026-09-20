@@ -1,0 +1,5592 @@
+[
+  {
+    "id": "alexscaves:atlatitan",
+    "namespace": "alexscaves",
+    "path": "atlatitan",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 11,
+    "dimensions": "5.0x8.0"
+  },
+  {
+    "id": "alexscaves:beholder_eye",
+    "namespace": "alexscaves",
+    "path": "beholder_eye",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.3x0.3"
+  },
+  {
+    "id": "alexscaves:boat",
+    "namespace": "alexscaves",
+    "path": "boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "alexscaves:boundroid",
+    "namespace": "alexscaves",
+    "path": "boundroid",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.4x0.75"
+  },
+  {
+    "id": "alexscaves:boundroid_winch",
+    "namespace": "alexscaves",
+    "path": "boundroid_winch",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x1.4"
+  },
+  {
+    "id": "alexscaves:brainiac",
+    "namespace": "alexscaves",
+    "path": "brainiac",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.3x2.5"
+  },
+  {
+    "id": "alexscaves:burrowing_arrow",
+    "namespace": "alexscaves",
+    "path": "burrowing_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexscaves:candicorn",
+    "namespace": "alexscaves",
+    "path": "candicorn",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.7x2.25"
+  },
+  {
+    "id": "alexscaves:candy_cane_hook",
+    "namespace": "alexscaves",
+    "path": "candy_cane_hook",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.6x0.6"
+  },
+  {
+    "id": "alexscaves:caniac",
+    "namespace": "alexscaves",
+    "path": "caniac",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "0.9x2.3"
+  },
+  {
+    "id": "alexscaves:caramel_cube",
+    "namespace": "alexscaves",
+    "path": "caramel_cube",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x0.8"
+  },
+  {
+    "id": "alexscaves:chest_boat",
+    "namespace": "alexscaves",
+    "path": "chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "alexscaves:cinder_brick",
+    "namespace": "alexscaves",
+    "path": "cinder_brick",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.4x0.4"
+  },
+  {
+    "id": "alexscaves:corrodent",
+    "namespace": "alexscaves",
+    "path": "corrodent",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x0.9"
+  },
+  {
+    "id": "alexscaves:crushed_block",
+    "namespace": "alexscaves",
+    "path": "crushed_block",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.99x0.99"
+  },
+  {
+    "id": "alexscaves:dark_arrow",
+    "namespace": "alexscaves",
+    "path": "dark_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.1x0.5"
+  },
+  {
+    "id": "alexscaves:deep_one",
+    "namespace": "alexscaves",
+    "path": "deep_one",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "0.9x2.2"
+  },
+  {
+    "id": "alexscaves:deep_one_knight",
+    "namespace": "alexscaves",
+    "path": "deep_one_knight",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "1.15x2.5"
+  },
+  {
+    "id": "alexscaves:deep_one_mage",
+    "namespace": "alexscaves",
+    "path": "deep_one_mage",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "1.35x2.5"
+  },
+  {
+    "id": "alexscaves:depth_charge",
+    "namespace": "alexscaves",
+    "path": "depth_charge",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.7x0.7"
+  },
+  {
+    "id": "alexscaves:desolate_dagger",
+    "namespace": "alexscaves",
+    "path": "desolate_dagger",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x0.6"
+  },
+  {
+    "id": "alexscaves:dinosaur_spirit",
+    "namespace": "alexscaves",
+    "path": "dinosaur_spirit",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.0x1.0"
+  },
+  {
+    "id": "alexscaves:extinction_spear",
+    "namespace": "alexscaves",
+    "path": "extinction_spear",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexscaves:falling_frostmint",
+    "namespace": "alexscaves",
+    "path": "falling_frostmint",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.8x0.9"
+  },
+  {
+    "id": "alexscaves:falling_guano",
+    "namespace": "alexscaves",
+    "path": "falling_guano",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.8x0.9"
+  },
+  {
+    "id": "alexscaves:falling_tree_block",
+    "namespace": "alexscaves",
+    "path": "falling_tree_block",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.99x0.99"
+  },
+  {
+    "id": "alexscaves:ferrouslime",
+    "namespace": "alexscaves",
+    "path": "ferrouslime",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.85x0.85"
+  },
+  {
+    "id": "alexscaves:floater",
+    "namespace": "alexscaves",
+    "path": "floater",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "alexscaves:forsaken",
+    "namespace": "alexscaves",
+    "path": "forsaken",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "3.0x3.5"
+  },
+  {
+    "id": "alexscaves:frostmint_spear",
+    "namespace": "alexscaves",
+    "path": "frostmint_spear",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexscaves:gammaroach",
+    "namespace": "alexscaves",
+    "path": "gammaroach",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.25x0.9"
+  },
+  {
+    "id": "alexscaves:gingerbread_man",
+    "namespace": "alexscaves",
+    "path": "gingerbread_man",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.9"
+  },
+  {
+    "id": "alexscaves:gloomoth",
+    "namespace": "alexscaves",
+    "path": "gloomoth",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "0.99x0.99"
+  },
+  {
+    "id": "alexscaves:gossamer_worm",
+    "namespace": "alexscaves",
+    "path": "gossamer_worm",
+    "category": "ALEXSCAVES_DEEP_SEA_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.15x0.5"
+  },
+  {
+    "id": "alexscaves:grottoceratops",
+    "namespace": "alexscaves",
+    "path": "grottoceratops",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "2.3x2.5"
+  },
+  {
+    "id": "alexscaves:guano",
+    "namespace": "alexscaves",
+    "path": "guano",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexscaves:gum_worm",
+    "namespace": "alexscaves",
+    "path": "gum_worm",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 14,
+    "dimensions": "3.5x2.7"
+  },
+  {
+    "id": "alexscaves:gum_worm_segment",
+    "namespace": "alexscaves",
+    "path": "gum_worm_segment",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 14,
+    "dimensions": "2.0x2.0"
+  },
+  {
+    "id": "alexscaves:gumball",
+    "namespace": "alexscaves",
+    "path": "gumball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "alexscaves:gumbeeper",
+    "namespace": "alexscaves",
+    "path": "gumbeeper",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x1.6"
+  },
+  {
+    "id": "alexscaves:gummy_bear",
+    "namespace": "alexscaves",
+    "path": "gummy_bear",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.45x1.2"
+  },
+  {
+    "id": "alexscaves:hullbreaker",
+    "namespace": "alexscaves",
+    "path": "hullbreaker",
+    "category": "UNDERGROUND_WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "4.65x4.5"
+  },
+  {
+    "id": "alexscaves:ink_bomb",
+    "namespace": "alexscaves",
+    "path": "ink_bomb",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x0.6"
+  },
+  {
+    "id": "alexscaves:lanternfish",
+    "namespace": "alexscaves",
+    "path": "lanternfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.4"
+  },
+  {
+    "id": "alexscaves:licowitch",
+    "namespace": "alexscaves",
+    "path": "licowitch",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x1.9"
+  },
+  {
+    "id": "alexscaves:limestone_spear",
+    "namespace": "alexscaves",
+    "path": "limestone_spear",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexscaves:luxtructosaurus",
+    "namespace": "alexscaves",
+    "path": "luxtructosaurus",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "6.0x8.5"
+  },
+  {
+    "id": "alexscaves:magnetic_weapon",
+    "namespace": "alexscaves",
+    "path": "magnetic_weapon",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexscaves:magnetron",
+    "namespace": "alexscaves",
+    "path": "magnetron",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x2.0"
+  },
+  {
+    "id": "alexscaves:melted_caramel",
+    "namespace": "alexscaves",
+    "path": "melted_caramel",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.99x0.1"
+  },
+  {
+    "id": "alexscaves:mine_guardian",
+    "namespace": "alexscaves",
+    "path": "mine_guardian",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.3x1.3"
+  },
+  {
+    "id": "alexscaves:mine_guardian_anchor",
+    "namespace": "alexscaves",
+    "path": "mine_guardian_anchor",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x1.35"
+  },
+  {
+    "id": "alexscaves:moving_metal_block",
+    "namespace": "alexscaves",
+    "path": "moving_metal_block",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.99x0.99"
+  },
+  {
+    "id": "alexscaves:notor",
+    "namespace": "alexscaves",
+    "path": "notor",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.65"
+  },
+  {
+    "id": "alexscaves:nuclear_bomb",
+    "namespace": "alexscaves",
+    "path": "nuclear_bomb",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "alexscaves:nuclear_explosion",
+    "namespace": "alexscaves",
+    "path": "nuclear_explosion",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.99x0.99"
+  },
+  {
+    "id": "alexscaves:nucleeper",
+    "namespace": "alexscaves",
+    "path": "nucleeper",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.98x3.95"
+  },
+  {
+    "id": "alexscaves:quarry_smasher",
+    "namespace": "alexscaves",
+    "path": "quarry_smasher",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.9x1.2"
+  },
+  {
+    "id": "alexscaves:radgill",
+    "namespace": "alexscaves",
+    "path": "radgill",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x0.6"
+  },
+  {
+    "id": "alexscaves:raycat",
+    "namespace": "alexscaves",
+    "path": "raycat",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.85x0.6"
+  },
+  {
+    "id": "alexscaves:relicheirus",
+    "namespace": "alexscaves",
+    "path": "relicheirus",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 9,
+    "dimensions": "2.65x5.9"
+  },
+  {
+    "id": "alexscaves:sea_pig",
+    "namespace": "alexscaves",
+    "path": "sea_pig",
+    "category": "ALEXSCAVES_DEEP_SEA_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.65"
+  },
+  {
+    "id": "alexscaves:seeking_arrow",
+    "namespace": "alexscaves",
+    "path": "seeking_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexscaves:soda_bottle_rocket",
+    "namespace": "alexscaves",
+    "path": "soda_bottle_rocket",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexscaves:spinning_peppermint",
+    "namespace": "alexscaves",
+    "path": "spinning_peppermint",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x0.4"
+  },
+  {
+    "id": "alexscaves:submarine",
+    "namespace": "alexscaves",
+    "path": "submarine",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "3.5x3.3"
+  },
+  {
+    "id": "alexscaves:subterranodon",
+    "namespace": "alexscaves",
+    "path": "subterranodon",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "1.75x1.2"
+  },
+  {
+    "id": "alexscaves:sugar_staff_hex",
+    "namespace": "alexscaves",
+    "path": "sugar_staff_hex",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "4.0x0.25"
+  },
+  {
+    "id": "alexscaves:sweetish_fish",
+    "namespace": "alexscaves",
+    "path": "sweetish_fish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.7x0.45"
+  },
+  {
+    "id": "alexscaves:teletor",
+    "namespace": "alexscaves",
+    "path": "teletor",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.99x1.99"
+  },
+  {
+    "id": "alexscaves:tephra",
+    "namespace": "alexscaves",
+    "path": "tephra",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x0.6"
+  },
+  {
+    "id": "alexscaves:thrown_ice_cream_scoop",
+    "namespace": "alexscaves",
+    "path": "thrown_ice_cream_scoop",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.4x0.4"
+  },
+  {
+    "id": "alexscaves:thrown_waste_drum",
+    "namespace": "alexscaves",
+    "path": "thrown_waste_drum",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "alexscaves:tremorsaurus",
+    "namespace": "alexscaves",
+    "path": "tremorsaurus",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "2.5x3.85"
+  },
+  {
+    "id": "alexscaves:tremorzilla",
+    "namespace": "alexscaves",
+    "path": "tremorzilla",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 11,
+    "dimensions": "4.5x11.0"
+  },
+  {
+    "id": "alexscaves:trilocaris",
+    "namespace": "alexscaves",
+    "path": "trilocaris",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x0.4"
+  },
+  {
+    "id": "alexscaves:tripodfish",
+    "namespace": "alexscaves",
+    "path": "tripodfish",
+    "category": "ALEXSCAVES_DEEP_SEA_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.95x0.5"
+  },
+  {
+    "id": "alexscaves:underzealot",
+    "namespace": "alexscaves",
+    "path": "underzealot",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x1.2"
+  },
+  {
+    "id": "alexscaves:vallumraptor",
+    "namespace": "alexscaves",
+    "path": "vallumraptor",
+    "category": "ALEXSCAVES_CAVE_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.8x1.5"
+  },
+  {
+    "id": "alexscaves:vesper",
+    "namespace": "alexscaves",
+    "path": "vesper",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "1.2x1.65"
+  },
+  {
+    "id": "alexscaves:watcher",
+    "namespace": "alexscaves",
+    "path": "watcher",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x1.9"
+  },
+  {
+    "id": "alexscaves:water_bolt",
+    "namespace": "alexscaves",
+    "path": "water_bolt",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x0.6"
+  },
+  {
+    "id": "alexscaves:wave",
+    "namespace": "alexscaves",
+    "path": "wave",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x0.9"
+  },
+  {
+    "id": "alexsmobs:alligator_snapping_turtle",
+    "namespace": "alexsmobs",
+    "path": "alligator_snapping_turtle",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.25x0.65"
+  },
+  {
+    "id": "alexsmobs:anaconda",
+    "namespace": "alexsmobs",
+    "path": "anaconda",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.8x0.8"
+  },
+  {
+    "id": "alexsmobs:anaconda_part",
+    "namespace": "alexsmobs",
+    "path": "anaconda_part",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.8x0.8"
+  },
+  {
+    "id": "alexsmobs:anteater",
+    "namespace": "alexsmobs",
+    "path": "anteater",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.3x1.1"
+  },
+  {
+    "id": "alexsmobs:bald_eagle",
+    "namespace": "alexsmobs",
+    "path": "bald_eagle",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 14,
+    "dimensions": "0.5x0.95"
+  },
+  {
+    "id": "alexsmobs:banana_slug",
+    "namespace": "alexsmobs",
+    "path": "banana_slug",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.8x0.4"
+  },
+  {
+    "id": "alexsmobs:bison",
+    "namespace": "alexsmobs",
+    "path": "bison",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "2.4x2.1"
+  },
+  {
+    "id": "alexsmobs:blobfish",
+    "namespace": "alexsmobs",
+    "path": "blobfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.7x0.45"
+  },
+  {
+    "id": "alexsmobs:blue_jay",
+    "namespace": "alexsmobs",
+    "path": "blue_jay",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.6"
+  },
+  {
+    "id": "alexsmobs:bone_serpent",
+    "namespace": "alexsmobs",
+    "path": "bone_serpent",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.2x1.15"
+  },
+  {
+    "id": "alexsmobs:bone_serpent_part",
+    "namespace": "alexsmobs",
+    "path": "bone_serpent_part",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.0x1.0"
+  },
+  {
+    "id": "alexsmobs:bunfungus",
+    "namespace": "alexsmobs",
+    "path": "bunfungus",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.85x2.1"
+  },
+  {
+    "id": "alexsmobs:caiman",
+    "namespace": "alexsmobs",
+    "path": "caiman",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.3x0.6"
+  },
+  {
+    "id": "alexsmobs:capuchin_monkey",
+    "namespace": "alexsmobs",
+    "path": "capuchin_monkey",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.65x0.75"
+  },
+  {
+    "id": "alexsmobs:centipede_body",
+    "namespace": "alexsmobs",
+    "path": "centipede_body",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x0.9"
+  },
+  {
+    "id": "alexsmobs:centipede_head",
+    "namespace": "alexsmobs",
+    "path": "centipede_head",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x0.9"
+  },
+  {
+    "id": "alexsmobs:centipede_tail",
+    "namespace": "alexsmobs",
+    "path": "centipede_tail",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x0.9"
+  },
+  {
+    "id": "alexsmobs:cockroach",
+    "namespace": "alexsmobs",
+    "path": "cockroach",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.7x0.3"
+  },
+  {
+    "id": "alexsmobs:cockroach_egg",
+    "namespace": "alexsmobs",
+    "path": "cockroach_egg",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:comb_jelly",
+    "namespace": "alexsmobs",
+    "path": "comb_jelly",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.65x0.8"
+  },
+  {
+    "id": "alexsmobs:cosmaw",
+    "namespace": "alexsmobs",
+    "path": "cosmaw",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.95x1.8"
+  },
+  {
+    "id": "alexsmobs:cosmic_cod",
+    "namespace": "alexsmobs",
+    "path": "cosmic_cod",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.85x0.4"
+  },
+  {
+    "id": "alexsmobs:crimson_mosquito",
+    "namespace": "alexsmobs",
+    "path": "crimson_mosquito",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.25x1.15"
+  },
+  {
+    "id": "alexsmobs:crocodile",
+    "namespace": "alexsmobs",
+    "path": "crocodile",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "2.15x0.75"
+  },
+  {
+    "id": "alexsmobs:crow",
+    "namespace": "alexsmobs",
+    "path": "crow",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.45x0.45"
+  },
+  {
+    "id": "alexsmobs:devils_hole_pupfish",
+    "namespace": "alexsmobs",
+    "path": "devils_hole_pupfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.6x0.4"
+  },
+  {
+    "id": "alexsmobs:dropbear",
+    "namespace": "alexsmobs",
+    "path": "dropbear",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.65x1.5"
+  },
+  {
+    "id": "alexsmobs:elephant",
+    "namespace": "alexsmobs",
+    "path": "elephant",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "3.1x3.5"
+  },
+  {
+    "id": "alexsmobs:emu",
+    "namespace": "alexsmobs",
+    "path": "emu",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.1x1.8"
+  },
+  {
+    "id": "alexsmobs:emu_egg",
+    "namespace": "alexsmobs",
+    "path": "emu_egg",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:endergrade",
+    "namespace": "alexsmobs",
+    "path": "endergrade",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.95x0.85"
+  },
+  {
+    "id": "alexsmobs:enderiophage",
+    "namespace": "alexsmobs",
+    "path": "enderiophage",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.85x1.95"
+  },
+  {
+    "id": "alexsmobs:enderiophage_rocket",
+    "namespace": "alexsmobs",
+    "path": "enderiophage_rocket",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:farseer",
+    "namespace": "alexsmobs",
+    "path": "farseer",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.99x1.5"
+  },
+  {
+    "id": "alexsmobs:fart",
+    "namespace": "alexsmobs",
+    "path": "fart",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.7x0.3"
+  },
+  {
+    "id": "alexsmobs:flutter",
+    "namespace": "alexsmobs",
+    "path": "flutter",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.5x0.7"
+  },
+  {
+    "id": "alexsmobs:fly",
+    "namespace": "alexsmobs",
+    "path": "fly",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.35x0.35"
+  },
+  {
+    "id": "alexsmobs:flying_fish",
+    "namespace": "alexsmobs",
+    "path": "flying_fish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x0.4"
+  },
+  {
+    "id": "alexsmobs:frilled_shark",
+    "namespace": "alexsmobs",
+    "path": "frilled_shark",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.3x0.4"
+  },
+  {
+    "id": "alexsmobs:froststalker",
+    "namespace": "alexsmobs",
+    "path": "froststalker",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.95x1.15"
+  },
+  {
+    "id": "alexsmobs:gazelle",
+    "namespace": "alexsmobs",
+    "path": "gazelle",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.85x1.25"
+  },
+  {
+    "id": "alexsmobs:gelada_monkey",
+    "namespace": "alexsmobs",
+    "path": "gelada_monkey",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.2x1.2"
+  },
+  {
+    "id": "alexsmobs:gorilla",
+    "namespace": "alexsmobs",
+    "path": "gorilla",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.15x1.35"
+  },
+  {
+    "id": "alexsmobs:grizzly_bear",
+    "namespace": "alexsmobs",
+    "path": "grizzly_bear",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.6x1.8"
+  },
+  {
+    "id": "alexsmobs:gust",
+    "namespace": "alexsmobs",
+    "path": "gust",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x0.8"
+  },
+  {
+    "id": "alexsmobs:guster",
+    "namespace": "alexsmobs",
+    "path": "guster",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.42x2.35"
+  },
+  {
+    "id": "alexsmobs:hammerhead_shark",
+    "namespace": "alexsmobs",
+    "path": "hammerhead_shark",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "2.4x1.25"
+  },
+  {
+    "id": "alexsmobs:hemolymph",
+    "namespace": "alexsmobs",
+    "path": "hemolymph",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:hummingbird",
+    "namespace": "alexsmobs",
+    "path": "hummingbird",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.45x0.45"
+  },
+  {
+    "id": "alexsmobs:ice_shard",
+    "namespace": "alexsmobs",
+    "path": "ice_shard",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.45x0.45"
+  },
+  {
+    "id": "alexsmobs:jerboa",
+    "namespace": "alexsmobs",
+    "path": "jerboa",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:kangaroo",
+    "namespace": "alexsmobs",
+    "path": "kangaroo",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.65x1.5"
+  },
+  {
+    "id": "alexsmobs:komodo_dragon",
+    "namespace": "alexsmobs",
+    "path": "komodo_dragon",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.9x0.9"
+  },
+  {
+    "id": "alexsmobs:laviathan",
+    "namespace": "alexsmobs",
+    "path": "laviathan",
+    "category": "CREATURE",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "3.3x2.4"
+  },
+  {
+    "id": "alexsmobs:leafcutter_ant",
+    "namespace": "alexsmobs",
+    "path": "leafcutter_ant",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.8x0.5"
+  },
+  {
+    "id": "alexsmobs:lobster",
+    "namespace": "alexsmobs",
+    "path": "lobster",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "alexsmobs:maned_wolf",
+    "namespace": "alexsmobs",
+    "path": "maned_wolf",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.26"
+  },
+  {
+    "id": "alexsmobs:mantis_shrimp",
+    "namespace": "alexsmobs",
+    "path": "mantis_shrimp",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.25x1.2"
+  },
+  {
+    "id": "alexsmobs:mimic_octopus",
+    "namespace": "alexsmobs",
+    "path": "mimic_octopus",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x0.6"
+  },
+  {
+    "id": "alexsmobs:mimicube",
+    "namespace": "alexsmobs",
+    "path": "mimicube",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x0.9"
+  },
+  {
+    "id": "alexsmobs:moose",
+    "namespace": "alexsmobs",
+    "path": "moose",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.7x2.4"
+  },
+  {
+    "id": "alexsmobs:mosquito_spit",
+    "namespace": "alexsmobs",
+    "path": "mosquito_spit",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:mud_ball",
+    "namespace": "alexsmobs",
+    "path": "mud_ball",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.35x0.35"
+  },
+  {
+    "id": "alexsmobs:mudskipper",
+    "namespace": "alexsmobs",
+    "path": "mudskipper",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.7x0.44"
+  },
+  {
+    "id": "alexsmobs:mungus",
+    "namespace": "alexsmobs",
+    "path": "mungus",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.75x1.45"
+  },
+  {
+    "id": "alexsmobs:murmur",
+    "namespace": "alexsmobs",
+    "path": "murmur",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x1.45"
+  },
+  {
+    "id": "alexsmobs:murmur_head",
+    "namespace": "alexsmobs",
+    "path": "murmur_head",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.55x0.55"
+  },
+  {
+    "id": "alexsmobs:orca",
+    "namespace": "alexsmobs",
+    "path": "orca",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "3.75x1.75"
+  },
+  {
+    "id": "alexsmobs:platypus",
+    "namespace": "alexsmobs",
+    "path": "platypus",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.8x0.5"
+  },
+  {
+    "id": "alexsmobs:pollen_ball",
+    "namespace": "alexsmobs",
+    "path": "pollen_ball",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.35x0.35"
+  },
+  {
+    "id": "alexsmobs:potoo",
+    "namespace": "alexsmobs",
+    "path": "potoo",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x0.8"
+  },
+  {
+    "id": "alexsmobs:rain_frog",
+    "namespace": "alexsmobs",
+    "path": "rain_frog",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.55x0.5"
+  },
+  {
+    "id": "alexsmobs:rattlesnake",
+    "namespace": "alexsmobs",
+    "path": "rattlesnake",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.95x0.35"
+  },
+  {
+    "id": "alexsmobs:rhinoceros",
+    "namespace": "alexsmobs",
+    "path": "rhinoceros",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "2.3x2.4"
+  },
+  {
+    "id": "alexsmobs:roadrunner",
+    "namespace": "alexsmobs",
+    "path": "roadrunner",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.45x0.75"
+  },
+  {
+    "id": "alexsmobs:rocky_roller",
+    "namespace": "alexsmobs",
+    "path": "rocky_roller",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.2x1.45"
+  },
+  {
+    "id": "alexsmobs:sand_shot",
+    "namespace": "alexsmobs",
+    "path": "sand_shot",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.95x0.65"
+  },
+  {
+    "id": "alexsmobs:sea_bear",
+    "namespace": "alexsmobs",
+    "path": "sea_bear",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "2.4x1.99"
+  },
+  {
+    "id": "alexsmobs:seagull",
+    "namespace": "alexsmobs",
+    "path": "seagull",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.45x0.45"
+  },
+  {
+    "id": "alexsmobs:seal",
+    "namespace": "alexsmobs",
+    "path": "seal",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.45x0.9"
+  },
+  {
+    "id": "alexsmobs:shark_tooth_arrow",
+    "namespace": "alexsmobs",
+    "path": "shark_tooth_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:shoebill",
+    "namespace": "alexsmobs",
+    "path": "shoebill",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.8x1.5"
+  },
+  {
+    "id": "alexsmobs:skelewag",
+    "namespace": "alexsmobs",
+    "path": "skelewag",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "2.0x1.2"
+  },
+  {
+    "id": "alexsmobs:skreecher",
+    "namespace": "alexsmobs",
+    "path": "skreecher",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.99x0.95"
+  },
+  {
+    "id": "alexsmobs:skunk",
+    "namespace": "alexsmobs",
+    "path": "skunk",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.85x0.65"
+  },
+  {
+    "id": "alexsmobs:snow_leopard",
+    "namespace": "alexsmobs",
+    "path": "snow_leopard",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.2x1.3"
+  },
+  {
+    "id": "alexsmobs:soul_vulture",
+    "namespace": "alexsmobs",
+    "path": "soul_vulture",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x1.3"
+  },
+  {
+    "id": "alexsmobs:spectre",
+    "namespace": "alexsmobs",
+    "path": "spectre",
+    "category": "CREATURE",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "3.15x0.8"
+  },
+  {
+    "id": "alexsmobs:straddleboard",
+    "namespace": "alexsmobs",
+    "path": "straddleboard",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.5x0.35"
+  },
+  {
+    "id": "alexsmobs:straddler",
+    "namespace": "alexsmobs",
+    "path": "straddler",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.65x3.0"
+  },
+  {
+    "id": "alexsmobs:stradpole",
+    "namespace": "alexsmobs",
+    "path": "stradpole",
+    "category": "WATER_AMBIENT",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:sugar_glider",
+    "namespace": "alexsmobs",
+    "path": "sugar_glider",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.8x0.45"
+  },
+  {
+    "id": "alexsmobs:sunbird",
+    "namespace": "alexsmobs",
+    "path": "sunbird",
+    "category": "CREATURE",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 12,
+    "dimensions": "2.75x1.5"
+  },
+  {
+    "id": "alexsmobs:tarantula_hawk",
+    "namespace": "alexsmobs",
+    "path": "tarantula_hawk",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.2x0.9"
+  },
+  {
+    "id": "alexsmobs:tasmanian_devil",
+    "namespace": "alexsmobs",
+    "path": "tasmanian_devil",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.7x0.8"
+  },
+  {
+    "id": "alexsmobs:tendon_segment",
+    "namespace": "alexsmobs",
+    "path": "tendon_segment",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.1x0.1"
+  },
+  {
+    "id": "alexsmobs:terrapin",
+    "namespace": "alexsmobs",
+    "path": "terrapin",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.75x0.45"
+  },
+  {
+    "id": "alexsmobs:tiger",
+    "namespace": "alexsmobs",
+    "path": "tiger",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.45x1.2"
+  },
+  {
+    "id": "alexsmobs:tossed_item",
+    "namespace": "alexsmobs",
+    "path": "tossed_item",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:toucan",
+    "namespace": "alexsmobs",
+    "path": "toucan",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.45x0.45"
+  },
+  {
+    "id": "alexsmobs:triops",
+    "namespace": "alexsmobs",
+    "path": "triops",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.7x0.25"
+  },
+  {
+    "id": "alexsmobs:tusklin",
+    "namespace": "alexsmobs",
+    "path": "tusklin",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "2.2x1.9"
+  },
+  {
+    "id": "alexsmobs:underminer",
+    "namespace": "alexsmobs",
+    "path": "underminer",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.8x1.8"
+  },
+  {
+    "id": "alexsmobs:vine_lasso",
+    "namespace": "alexsmobs",
+    "path": "vine_lasso",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.85x0.2"
+  },
+  {
+    "id": "alexsmobs:void_portal",
+    "namespace": "alexsmobs",
+    "path": "void_portal",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:void_worm",
+    "namespace": "alexsmobs",
+    "path": "void_worm",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "3.4x3.0"
+  },
+  {
+    "id": "alexsmobs:void_worm_part",
+    "namespace": "alexsmobs",
+    "path": "void_worm_part",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 20,
+    "dimensions": "1.2x1.35"
+  },
+  {
+    "id": "alexsmobs:void_worm_shot",
+    "namespace": "alexsmobs",
+    "path": "void_worm_shot",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "alexsmobs:warped_mosco",
+    "namespace": "alexsmobs",
+    "path": "warped_mosco",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.99x3.25"
+  },
+  {
+    "id": "alexsmobs:warped_toad",
+    "namespace": "alexsmobs",
+    "path": "warped_toad",
+    "category": "CREATURE",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.4"
+  },
+  {
+    "id": "alpinewhispers:chair",
+    "namespace": "alpinewhispers",
+    "path": "chair",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.001x0.001"
+  },
+  {
+    "id": "amendments:falling_lantern",
+    "namespace": "amendments",
+    "path": "falling_lantern",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "amendments:medium_dragon_fireball",
+    "namespace": "amendments",
+    "path": "medium_dragon_fireball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 16,
+    "dimensions": "0.3125x0.3125"
+  },
+  {
+    "id": "amendments:medium_fireball",
+    "namespace": "amendments",
+    "path": "medium_fireball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 16,
+    "dimensions": "0.3125x0.3125"
+  },
+  {
+    "id": "artifacts:mimic",
+    "namespace": "artifacts",
+    "path": "mimic",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.875x0.875"
+  },
+  {
+    "id": "atmospheric:cochineal",
+    "namespace": "atmospheric",
+    "path": "cochineal",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "1.3x1.1"
+  },
+  {
+    "id": "atmospheric:dragon_fruit",
+    "namespace": "atmospheric",
+    "path": "dragon_fruit",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.375x0.375"
+  },
+  {
+    "id": "atmospheric:orange_vapor_cloud",
+    "namespace": "atmospheric",
+    "path": "orange_vapor_cloud",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "3.0x3.0"
+  },
+  {
+    "id": "atmospheric:passion_fruit_seed",
+    "namespace": "atmospheric",
+    "path": "passion_fruit_seed",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "atmospheric:tetra",
+    "namespace": "atmospheric",
+    "path": "tetra",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.3x0.2"
+  },
+  {
+    "id": "autumnity:snail",
+    "namespace": "autumnity",
+    "path": "snail",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.8x0.9"
+  },
+  {
+    "id": "biomesoplenty:boat",
+    "namespace": "biomesoplenty",
+    "path": "boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "biomesoplenty:chest_boat",
+    "namespace": "biomesoplenty",
+    "path": "chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "biomeswevegone:boat",
+    "namespace": "biomeswevegone",
+    "path": "boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "biomeswevegone:chest_boat",
+    "namespace": "biomeswevegone",
+    "path": "chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "biomeswevegone:man_o_war",
+    "namespace": "biomeswevegone",
+    "path": "man_o_war",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x1.0"
+  },
+  {
+    "id": "biomeswevegone:oddion",
+    "namespace": "biomeswevegone",
+    "path": "oddion",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.75"
+  },
+  {
+    "id": "biomeswevegone:pumpkin_warden",
+    "namespace": "biomeswevegone",
+    "path": "pumpkin_warden",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.64x1.1"
+  },
+  {
+    "id": "biomeswevegone:wreath",
+    "namespace": "biomeswevegone",
+    "path": "wreath",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "bloomingnature:mod_boat",
+    "namespace": "bloomingnature",
+    "path": "mod_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "bloomingnature:mod_chest_boat",
+    "namespace": "bloomingnature",
+    "path": "mod_chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "bloomingnature:wandering_gardener",
+    "namespace": "bloomingnature",
+    "path": "wandering_gardener",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "blueprint:boat",
+    "namespace": "blueprint",
+    "path": "boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "blueprint:chest_boat",
+    "namespace": "blueprint",
+    "path": "chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "blueprint:falling_block",
+    "namespace": "blueprint",
+    "path": "falling_block",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "brewery:beer_elemental",
+    "namespace": "brewery",
+    "path": "beer_elemental",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 80,
+    "dimensions": "1.0x1.6"
+  },
+  {
+    "id": "brewery:beer_elemental_attack",
+    "namespace": "brewery",
+    "path": "beer_elemental_attack",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.3125x0.3125"
+  },
+  {
+    "id": "brewery:dark_brew",
+    "namespace": "brewery",
+    "path": "dark_brew",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "buzzier_bees:grizzly_bear",
+    "namespace": "buzzier_bees",
+    "path": "grizzly_bear",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.4x1.4"
+  },
+  {
+    "id": "buzzier_bees:moobloom",
+    "namespace": "buzzier_bees",
+    "path": "moobloom",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.4"
+  },
+  {
+    "id": "caverns_and_chasms:bejeweled_pearl",
+    "namespace": "caverns_and_chasms",
+    "path": "bejeweled_pearl",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "caverns_and_chasms:blunt_arrow",
+    "namespace": "caverns_and_chasms",
+    "path": "blunt_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "caverns_and_chasms:cavefish",
+    "namespace": "caverns_and_chasms",
+    "path": "cavefish",
+    "category": "CAVERNS_AND_CHASMS_UNDERGROUND_WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.4x0.3"
+  },
+  {
+    "id": "caverns_and_chasms:copper_golem",
+    "namespace": "caverns_and_chasms",
+    "path": "copper_golem",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x0.9"
+  },
+  {
+    "id": "caverns_and_chasms:deeper",
+    "namespace": "caverns_and_chasms",
+    "path": "deeper",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.7"
+  },
+  {
+    "id": "caverns_and_chasms:evendeeper",
+    "namespace": "caverns_and_chasms",
+    "path": "evendeeper",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.7"
+  },
+  {
+    "id": "caverns_and_chasms:glare",
+    "namespace": "caverns_and_chasms",
+    "path": "glare",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x0.95"
+  },
+  {
+    "id": "caverns_and_chasms:grazer",
+    "namespace": "caverns_and_chasms",
+    "path": "grazer",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x1.98"
+  },
+  {
+    "id": "caverns_and_chasms:kunai",
+    "namespace": "caverns_and_chasms",
+    "path": "kunai",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "caverns_and_chasms:large_arrow",
+    "namespace": "caverns_and_chasms",
+    "path": "large_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "caverns_and_chasms:mime",
+    "namespace": "caverns_and_chasms",
+    "path": "mime",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x2.1"
+  },
+  {
+    "id": "caverns_and_chasms:oxidized_copper_golem",
+    "namespace": "caverns_and_chasms",
+    "path": "oxidized_copper_golem",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x0.9"
+  },
+  {
+    "id": "caverns_and_chasms:peeper",
+    "namespace": "caverns_and_chasms",
+    "path": "peeper",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x2.2"
+  },
+  {
+    "id": "caverns_and_chasms:rat",
+    "namespace": "caverns_and_chasms",
+    "path": "rat",
+    "category": "CAVERNS_AND_CHASMS_UNDERGROUND_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.5x0.45"
+  },
+  {
+    "id": "caverns_and_chasms:ricochet_arrow",
+    "namespace": "caverns_and_chasms",
+    "path": "ricochet_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "caverns_and_chasms:saddled_grazer",
+    "namespace": "caverns_and_chasms",
+    "path": "saddled_grazer",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x1.98"
+  },
+  {
+    "id": "caverns_and_chasms:tmt",
+    "namespace": "caverns_and_chasms",
+    "path": "tmt",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "corpse:corpse",
+    "namespace": "corpse",
+    "path": "corpse",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 128,
+    "dimensions": "2.0x0.5"
+  },
+  {
+    "id": "environmental:mud_ball",
+    "namespace": "environmental",
+    "path": "mud_ball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "environmental:pinecone_golem",
+    "namespace": "environmental",
+    "path": "pinecone_golem",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.65x0.65"
+  },
+  {
+    "id": "environmental:slabfish",
+    "namespace": "environmental",
+    "path": "slabfish",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.45x0.9"
+  },
+  {
+    "id": "environmental:tapir",
+    "namespace": "environmental",
+    "path": "tapir",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x0.98"
+  },
+  {
+    "id": "environmental:zebra",
+    "namespace": "environmental",
+    "path": "zebra",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.3964844x1.5"
+  },
+  {
+    "id": "environmental:zonkey",
+    "namespace": "environmental",
+    "path": "zonkey",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.3964844x1.5"
+  },
+  {
+    "id": "environmental:zorse",
+    "namespace": "environmental",
+    "path": "zorse",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.3964844x1.6"
+  },
+  {
+    "id": "eternalnether:corpor",
+    "namespace": "eternalnether",
+    "path": "corpor",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x2.4"
+  },
+  {
+    "id": "eternalnether:piglin_hunter",
+    "namespace": "eternalnether",
+    "path": "piglin_hunter",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "eternalnether:piglin_prisoner",
+    "namespace": "eternalnether",
+    "path": "piglin_prisoner",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "eternalnether:warped_ender_pearl",
+    "namespace": "eternalnether",
+    "path": "warped_ender_pearl",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "eternalnether:warped_enderman",
+    "namespace": "eternalnether",
+    "path": "warped_enderman",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x2.9"
+  },
+  {
+    "id": "eternalnether:wex",
+    "namespace": "eternalnether",
+    "path": "wex",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.4x0.8"
+  },
+  {
+    "id": "eternalnether:wither_skeleton_knight",
+    "namespace": "eternalnether",
+    "path": "wither_skeleton_knight",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x2.4"
+  },
+  {
+    "id": "eternalnether:wraither",
+    "namespace": "eternalnether",
+    "path": "wraither",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x2.4"
+  },
+  {
+    "id": "farm_and_charm:cart",
+    "namespace": "farm_and_charm",
+    "path": "cart",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.875x0.875"
+  },
+  {
+    "id": "farm_and_charm:chair",
+    "namespace": "farm_and_charm",
+    "path": "chair",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.001x0.001"
+  },
+  {
+    "id": "farm_and_charm:plow",
+    "namespace": "farm_and_charm",
+    "path": "plow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.875x0.875"
+  },
+  {
+    "id": "farm_and_charm:rotten_tomato",
+    "namespace": "farm_and_charm",
+    "path": "rotten_tomato",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "farmersdelight:rotten_tomato",
+    "namespace": "farmersdelight",
+    "path": "rotten_tomato",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "furniture:canvas",
+    "namespace": "furniture",
+    "path": "canvas",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.0x2.0"
+  },
+  {
+    "id": "furniture:chair",
+    "namespace": "furniture",
+    "path": "chair",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.001x0.001"
+  },
+  {
+    "id": "furniture:pells",
+    "namespace": "furniture",
+    "path": "pells",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.0x2.0"
+  },
+  {
+    "id": "hearthandharvest:crow",
+    "namespace": "hearthandharvest",
+    "path": "crow",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.4x0.5"
+  },
+  {
+    "id": "hearthandharvest:manure_projectile",
+    "namespace": "hearthandharvest",
+    "path": "manure_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "hearthandharvest:thrown_cleaver",
+    "namespace": "hearthandharvest",
+    "path": "thrown_cleaver",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "hearthandharvest:thrown_pitchfork",
+    "namespace": "hearthandharvest",
+    "path": "thrown_pitchfork",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "illagerinvasion:alchemist",
+    "namespace": "illagerinvasion",
+    "path": "alchemist",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:archivist",
+    "namespace": "illagerinvasion",
+    "path": "archivist",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:basher",
+    "namespace": "illagerinvasion",
+    "path": "basher",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:firecaller",
+    "namespace": "illagerinvasion",
+    "path": "firecaller",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:flying_magma",
+    "namespace": "illagerinvasion",
+    "path": "flying_magma",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.95x1.05"
+  },
+  {
+    "id": "illagerinvasion:hatchet",
+    "namespace": "illagerinvasion",
+    "path": "hatchet",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.35x0.35"
+  },
+  {
+    "id": "illagerinvasion:inquisitor",
+    "namespace": "illagerinvasion",
+    "path": "inquisitor",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x2.48"
+  },
+  {
+    "id": "illagerinvasion:invoker",
+    "namespace": "illagerinvasion",
+    "path": "invoker",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:invoker_fangs",
+    "namespace": "illagerinvasion",
+    "path": "invoker_fangs",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.65x1.05"
+  },
+  {
+    "id": "illagerinvasion:marauder",
+    "namespace": "illagerinvasion",
+    "path": "marauder",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:necromancer",
+    "namespace": "illagerinvasion",
+    "path": "necromancer",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:provoker",
+    "namespace": "illagerinvasion",
+    "path": "provoker",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:skull_bolt",
+    "namespace": "illagerinvasion",
+    "path": "skull_bolt",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.3x0.3"
+  },
+  {
+    "id": "illagerinvasion:sorcerer",
+    "namespace": "illagerinvasion",
+    "path": "sorcerer",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.92"
+  },
+  {
+    "id": "illagerinvasion:surrendered",
+    "namespace": "illagerinvasion",
+    "path": "surrendered",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.42"
+  },
+  {
+    "id": "just_in_cave:the_old_miner",
+    "namespace": "just_in_cave",
+    "path": "the_old_miner",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 100,
+    "dimensions": "0.6x2.3"
+  },
+  {
+    "id": "just_in_nether:bullkin",
+    "namespace": "just_in_nether",
+    "path": "bullkin",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "just_in_nether:bullkin_brute",
+    "namespace": "just_in_nether",
+    "path": "bullkin_brute",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "just_in_nether:bullkindar",
+    "namespace": "just_in_nether",
+    "path": "bullkindar",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 75,
+    "dimensions": "0.9x2.1"
+  },
+  {
+    "id": "just_in_nether:dullkin",
+    "namespace": "just_in_nether",
+    "path": "dullkin",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.9x1.2"
+  },
+  {
+    "id": "just_in_nether:pigmar",
+    "namespace": "just_in_nether",
+    "path": "pigmar",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 75,
+    "dimensions": "1.0x2.1"
+  },
+  {
+    "id": "just_in_nether:zombified_bullkin",
+    "namespace": "just_in_nether",
+    "path": "zombified_bullkin",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x1.8"
+  },
+  {
+    "id": "just_in_nether:zombified_dullkin",
+    "namespace": "just_in_nether",
+    "path": "zombified_dullkin",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.9x1.2"
+  },
+  {
+    "id": "lilis_lucky_lures:dynamite",
+    "namespace": "lilis_lucky_lures",
+    "path": "dynamite",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "lilis_lucky_lures:floating_books",
+    "namespace": "lilis_lucky_lures",
+    "path": "floating_books",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "2.0x2.5"
+  },
+  {
+    "id": "lilis_lucky_lures:floating_debris",
+    "namespace": "lilis_lucky_lures",
+    "path": "floating_debris",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "2.0x2.5"
+  },
+  {
+    "id": "lilis_lucky_lures:ocean_fish_pool",
+    "namespace": "lilis_lucky_lures",
+    "path": "ocean_fish_pool",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "2.0x2.5"
+  },
+  {
+    "id": "lilis_lucky_lures:river_fish_pool",
+    "namespace": "lilis_lucky_lures",
+    "path": "river_fish_pool",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "2.0x2.5"
+  },
+  {
+    "id": "lilis_lucky_lures:thrown_spear",
+    "namespace": "lilis_lucky_lures",
+    "path": "thrown_spear",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "lootr:item_frame",
+    "namespace": "lootr",
+    "path": "item_frame",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "mca:crib",
+    "namespace": "mca",
+    "path": "crib",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.2x1.0"
+  },
+  {
+    "id": "mca:female_villager",
+    "namespace": "mca",
+    "path": "female_villager",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x2.0"
+  },
+  {
+    "id": "mca:female_zombie_villager",
+    "namespace": "mca",
+    "path": "female_zombie_villager",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x2.0"
+  },
+  {
+    "id": "mca:grim_reaper",
+    "namespace": "mca",
+    "path": "grim_reaper",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.0x2.6"
+  },
+  {
+    "id": "mca:male_villager",
+    "namespace": "mca",
+    "path": "male_villager",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x2.0"
+  },
+  {
+    "id": "mca:male_zombie_villager",
+    "namespace": "mca",
+    "path": "male_zombie_villager",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x2.0"
+  },
+  {
+    "id": "mcwfurnitures:chair",
+    "namespace": "mcwfurnitures",
+    "path": "chair",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "mcwfurnitures:couch",
+    "namespace": "mcwfurnitures",
+    "path": "couch",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "meadow:pine_boat",
+    "namespace": "meadow",
+    "path": "pine_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "meadow:pine_chair",
+    "namespace": "meadow",
+    "path": "pine_chair",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.001x0.001"
+  },
+  {
+    "id": "meadow:pine_chest_boat",
+    "namespace": "meadow",
+    "path": "pine_chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "meadow:water_buffalo",
+    "namespace": "meadow",
+    "path": "water_buffalo",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x1.4"
+  },
+  {
+    "id": "meadow:wooly_cow",
+    "namespace": "meadow",
+    "path": "wooly_cow",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x1.4"
+  },
+  {
+    "id": "minecraft:allay",
+    "namespace": "minecraft",
+    "path": "allay",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.35x0.6"
+  },
+  {
+    "id": "minecraft:area_effect_cloud",
+    "namespace": "minecraft",
+    "path": "area_effect_cloud",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "6.0x0.5"
+  },
+  {
+    "id": "minecraft:armadillo",
+    "namespace": "minecraft",
+    "path": "armadillo",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.7x0.65"
+  },
+  {
+    "id": "minecraft:armor_stand",
+    "namespace": "minecraft",
+    "path": "armor_stand",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x1.975"
+  },
+  {
+    "id": "minecraft:arrow",
+    "namespace": "minecraft",
+    "path": "arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "minecraft:axolotl",
+    "namespace": "minecraft",
+    "path": "axolotl",
+    "category": "AXOLOTLS",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.75x0.42"
+  },
+  {
+    "id": "minecraft:bat",
+    "namespace": "minecraft",
+    "path": "bat",
+    "category": "AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x0.9"
+  },
+  {
+    "id": "minecraft:bee",
+    "namespace": "minecraft",
+    "path": "bee",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x0.6"
+  },
+  {
+    "id": "minecraft:blaze",
+    "namespace": "minecraft",
+    "path": "blaze",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.8"
+  },
+  {
+    "id": "minecraft:block_display",
+    "namespace": "minecraft",
+    "path": "block_display",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "minecraft:boat",
+    "namespace": "minecraft",
+    "path": "boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "minecraft:bogged",
+    "namespace": "minecraft",
+    "path": "bogged",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.99"
+  },
+  {
+    "id": "minecraft:breeze",
+    "namespace": "minecraft",
+    "path": "breeze",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x1.77"
+  },
+  {
+    "id": "minecraft:breeze_wind_charge",
+    "namespace": "minecraft",
+    "path": "breeze_wind_charge",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.3125x0.3125"
+  },
+  {
+    "id": "minecraft:camel",
+    "namespace": "minecraft",
+    "path": "camel",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.7x2.375"
+  },
+  {
+    "id": "minecraft:cat",
+    "namespace": "minecraft",
+    "path": "cat",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x0.7"
+  },
+  {
+    "id": "minecraft:cave_spider",
+    "namespace": "minecraft",
+    "path": "cave_spider",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x0.5"
+  },
+  {
+    "id": "minecraft:chest_boat",
+    "namespace": "minecraft",
+    "path": "chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "minecraft:chicken",
+    "namespace": "minecraft",
+    "path": "chicken",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.4x0.7"
+  },
+  {
+    "id": "minecraft:cod",
+    "namespace": "minecraft",
+    "path": "cod",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "minecraft:cow",
+    "namespace": "minecraft",
+    "path": "cow",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.4"
+  },
+  {
+    "id": "minecraft:creeper",
+    "namespace": "minecraft",
+    "path": "creeper",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.7"
+  },
+  {
+    "id": "minecraft:dolphin",
+    "namespace": "minecraft",
+    "path": "dolphin",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x0.6"
+  },
+  {
+    "id": "minecraft:donkey",
+    "namespace": "minecraft",
+    "path": "donkey",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.3964844x1.5"
+  },
+  {
+    "id": "minecraft:dragon_fireball",
+    "namespace": "minecraft",
+    "path": "dragon_fireball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "1.0x1.0"
+  },
+  {
+    "id": "minecraft:drowned",
+    "namespace": "minecraft",
+    "path": "drowned",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:egg",
+    "namespace": "minecraft",
+    "path": "egg",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:elder_guardian",
+    "namespace": "minecraft",
+    "path": "elder_guardian",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.9975x1.9975"
+  },
+  {
+    "id": "minecraft:end_crystal",
+    "namespace": "minecraft",
+    "path": "end_crystal",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 16,
+    "dimensions": "2.0x2.0"
+  },
+  {
+    "id": "minecraft:ender_dragon",
+    "namespace": "minecraft",
+    "path": "ender_dragon",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "16.0x8.0"
+  },
+  {
+    "id": "minecraft:ender_pearl",
+    "namespace": "minecraft",
+    "path": "ender_pearl",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:enderman",
+    "namespace": "minecraft",
+    "path": "enderman",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x2.9"
+  },
+  {
+    "id": "minecraft:endermite",
+    "namespace": "minecraft",
+    "path": "endermite",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.4x0.3"
+  },
+  {
+    "id": "minecraft:evoker",
+    "namespace": "minecraft",
+    "path": "evoker",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:evoker_fangs",
+    "namespace": "minecraft",
+    "path": "evoker_fangs",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.5x0.8"
+  },
+  {
+    "id": "minecraft:experience_bottle",
+    "namespace": "minecraft",
+    "path": "experience_bottle",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:experience_orb",
+    "namespace": "minecraft",
+    "path": "experience_orb",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "minecraft:eye_of_ender",
+    "namespace": "minecraft",
+    "path": "eye_of_ender",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:falling_block",
+    "namespace": "minecraft",
+    "path": "falling_block",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "minecraft:fireball",
+    "namespace": "minecraft",
+    "path": "fireball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "1.0x1.0"
+  },
+  {
+    "id": "minecraft:firework_rocket",
+    "namespace": "minecraft",
+    "path": "firework_rocket",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:fishing_bobber",
+    "namespace": "minecraft",
+    "path": "fishing_bobber",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": false,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:frog",
+    "namespace": "minecraft",
+    "path": "frog",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "minecraft:ghast",
+    "namespace": "minecraft",
+    "path": "ghast",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "4.0x4.0"
+  },
+  {
+    "id": "minecraft:giant",
+    "namespace": "minecraft",
+    "path": "giant",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "3.6x12.0"
+  },
+  {
+    "id": "minecraft:glow_item_frame",
+    "namespace": "minecraft",
+    "path": "glow_item_frame",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "minecraft:guardian",
+    "namespace": "minecraft",
+    "path": "guardian",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.85x0.85"
+  },
+  {
+    "id": "minecraft:hoglin",
+    "namespace": "minecraft",
+    "path": "hoglin",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.3964844x1.4"
+  },
+  {
+    "id": "minecraft:husk",
+    "namespace": "minecraft",
+    "path": "husk",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:illusioner",
+    "namespace": "minecraft",
+    "path": "illusioner",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:interaction",
+    "namespace": "minecraft",
+    "path": "interaction",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "minecraft:iron_golem",
+    "namespace": "minecraft",
+    "path": "iron_golem",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.4x2.7"
+  },
+  {
+    "id": "minecraft:item",
+    "namespace": "minecraft",
+    "path": "item",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:item_display",
+    "namespace": "minecraft",
+    "path": "item_display",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "minecraft:item_frame",
+    "namespace": "minecraft",
+    "path": "item_frame",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "minecraft:leash_knot",
+    "namespace": "minecraft",
+    "path": "leash_knot",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.375x0.5"
+  },
+  {
+    "id": "minecraft:lightning_bolt",
+    "namespace": "minecraft",
+    "path": "lightning_bolt",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 16,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "minecraft:llama",
+    "namespace": "minecraft",
+    "path": "llama",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.87"
+  },
+  {
+    "id": "minecraft:llama_spit",
+    "namespace": "minecraft",
+    "path": "llama_spit",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:magma_cube",
+    "namespace": "minecraft",
+    "path": "magma_cube",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.52x0.52"
+  },
+  {
+    "id": "minecraft:marker",
+    "namespace": "minecraft",
+    "path": "marker",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 0,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "minecraft:mooshroom",
+    "namespace": "minecraft",
+    "path": "mooshroom",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.4"
+  },
+  {
+    "id": "minecraft:mule",
+    "namespace": "minecraft",
+    "path": "mule",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.3964844x1.6"
+  },
+  {
+    "id": "minecraft:ocelot",
+    "namespace": "minecraft",
+    "path": "ocelot",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x0.7"
+  },
+  {
+    "id": "minecraft:ominous_item_spawner",
+    "namespace": "minecraft",
+    "path": "ominous_item_spawner",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:painting",
+    "namespace": "minecraft",
+    "path": "painting",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "minecraft:panda",
+    "namespace": "minecraft",
+    "path": "panda",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.3x1.25"
+  },
+  {
+    "id": "minecraft:parrot",
+    "namespace": "minecraft",
+    "path": "parrot",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.5x0.9"
+  },
+  {
+    "id": "minecraft:phantom",
+    "namespace": "minecraft",
+    "path": "phantom",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x0.5"
+  },
+  {
+    "id": "minecraft:pig",
+    "namespace": "minecraft",
+    "path": "pig",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x0.9"
+  },
+  {
+    "id": "minecraft:piglin",
+    "namespace": "minecraft",
+    "path": "piglin",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:piglin_brute",
+    "namespace": "minecraft",
+    "path": "piglin_brute",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:pillager",
+    "namespace": "minecraft",
+    "path": "pillager",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:player",
+    "namespace": "minecraft",
+    "path": "player",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": false,
+    "tracking_range": 32,
+    "dimensions": "0.6x1.8"
+  },
+  {
+    "id": "minecraft:polar_bear",
+    "namespace": "minecraft",
+    "path": "polar_bear",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.4x1.4"
+  },
+  {
+    "id": "minecraft:potion",
+    "namespace": "minecraft",
+    "path": "potion",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:pufferfish",
+    "namespace": "minecraft",
+    "path": "pufferfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.7"
+  },
+  {
+    "id": "minecraft:rabbit",
+    "namespace": "minecraft",
+    "path": "rabbit",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.4x0.5"
+  },
+  {
+    "id": "minecraft:ravager",
+    "namespace": "minecraft",
+    "path": "ravager",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.95x2.2"
+  },
+  {
+    "id": "minecraft:shulker",
+    "namespace": "minecraft",
+    "path": "shulker",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.0x1.0"
+  },
+  {
+    "id": "minecraft:skeleton",
+    "namespace": "minecraft",
+    "path": "skeleton",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.99"
+  },
+  {
+    "id": "minecraft:slime",
+    "namespace": "minecraft",
+    "path": "slime",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.52x0.52"
+  },
+  {
+    "id": "minecraft:small_fireball",
+    "namespace": "minecraft",
+    "path": "small_fireball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.3125x0.3125"
+  },
+  {
+    "id": "minecraft:sniffer",
+    "namespace": "minecraft",
+    "path": "sniffer",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.9x1.75"
+  },
+  {
+    "id": "minecraft:snow_golem",
+    "namespace": "minecraft",
+    "path": "snow_golem",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x1.9"
+  },
+  {
+    "id": "minecraft:snowball",
+    "namespace": "minecraft",
+    "path": "snowball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "minecraft:spectral_arrow",
+    "namespace": "minecraft",
+    "path": "spectral_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "minecraft:spider",
+    "namespace": "minecraft",
+    "path": "spider",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.4x0.9"
+  },
+  {
+    "id": "minecraft:stray",
+    "namespace": "minecraft",
+    "path": "stray",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.99"
+  },
+  {
+    "id": "minecraft:strider",
+    "namespace": "minecraft",
+    "path": "strider",
+    "category": "CREATURE",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.7"
+  },
+  {
+    "id": "minecraft:tadpole",
+    "namespace": "minecraft",
+    "path": "tadpole",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.4x0.3"
+  },
+  {
+    "id": "minecraft:text_display",
+    "namespace": "minecraft",
+    "path": "text_display",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "minecraft:tnt",
+    "namespace": "minecraft",
+    "path": "tnt",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "minecraft:trader_llama",
+    "namespace": "minecraft",
+    "path": "trader_llama",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.87"
+  },
+  {
+    "id": "minecraft:trident",
+    "namespace": "minecraft",
+    "path": "trident",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "minecraft:tropical_fish",
+    "namespace": "minecraft",
+    "path": "tropical_fish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.4"
+  },
+  {
+    "id": "minecraft:turtle",
+    "namespace": "minecraft",
+    "path": "turtle",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.2x0.4"
+  },
+  {
+    "id": "minecraft:vex",
+    "namespace": "minecraft",
+    "path": "vex",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.4x0.8"
+  },
+  {
+    "id": "minecraft:villager",
+    "namespace": "minecraft",
+    "path": "villager",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:vindicator",
+    "namespace": "minecraft",
+    "path": "vindicator",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:wandering_trader",
+    "namespace": "minecraft",
+    "path": "wandering_trader",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:warden",
+    "namespace": "minecraft",
+    "path": "warden",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 16,
+    "dimensions": "0.9x2.9"
+  },
+  {
+    "id": "minecraft:wind_charge",
+    "namespace": "minecraft",
+    "path": "wind_charge",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.3125x0.3125"
+  },
+  {
+    "id": "minecraft:witch",
+    "namespace": "minecraft",
+    "path": "witch",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:wither",
+    "namespace": "minecraft",
+    "path": "wither",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x3.5"
+  },
+  {
+    "id": "minecraft:wither_skeleton",
+    "namespace": "minecraft",
+    "path": "wither_skeleton",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x2.4"
+  },
+  {
+    "id": "minecraft:wither_skull",
+    "namespace": "minecraft",
+    "path": "wither_skull",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.3125x0.3125"
+  },
+  {
+    "id": "minecraft:wolf",
+    "namespace": "minecraft",
+    "path": "wolf",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x0.85"
+  },
+  {
+    "id": "minecraft:zoglin",
+    "namespace": "minecraft",
+    "path": "zoglin",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.3964844x1.4"
+  },
+  {
+    "id": "minecraft:zombie",
+    "namespace": "minecraft",
+    "path": "zombie",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:zombie_villager",
+    "namespace": "minecraft",
+    "path": "zombie_villager",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "minecraft:zombified_piglin",
+    "namespace": "minecraft",
+    "path": "zombified_piglin",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "pet_cemetery:skeleton_cat",
+    "namespace": "pet_cemetery",
+    "path": "skeleton_cat",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x0.7"
+  },
+  {
+    "id": "pet_cemetery:skeleton_parrot",
+    "namespace": "pet_cemetery",
+    "path": "skeleton_parrot",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.9"
+  },
+  {
+    "id": "pet_cemetery:skeleton_wolf",
+    "namespace": "pet_cemetery",
+    "path": "skeleton_wolf",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x0.85"
+  },
+  {
+    "id": "pet_cemetery:zombie_cat",
+    "namespace": "pet_cemetery",
+    "path": "zombie_cat",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x0.7"
+  },
+  {
+    "id": "pet_cemetery:zombie_parrot",
+    "namespace": "pet_cemetery",
+    "path": "zombie_parrot",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.9"
+  },
+  {
+    "id": "pet_cemetery:zombie_wolf",
+    "namespace": "pet_cemetery",
+    "path": "zombie_wolf",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x0.85"
+  },
+  {
+    "id": "quark:crab",
+    "namespace": "quark",
+    "path": "crab",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x0.5"
+  },
+  {
+    "id": "quark:dyed_item_frame",
+    "namespace": "quark",
+    "path": "dyed_item_frame",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "quark:flamerang",
+    "namespace": "quark",
+    "path": "flamerang",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.4x0.4"
+  },
+  {
+    "id": "quark:forgotten",
+    "namespace": "quark",
+    "path": "forgotten",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x2.4"
+  },
+  {
+    "id": "quark:glass_frame",
+    "namespace": "quark",
+    "path": "glass_frame",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "quark:gravisand",
+    "namespace": "quark",
+    "path": "gravisand",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "quark:parrot_egg",
+    "namespace": "quark",
+    "path": "parrot_egg",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.4x0.4"
+  },
+  {
+    "id": "quark:pickarang",
+    "namespace": "quark",
+    "path": "pickarang",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.4x0.4"
+  },
+  {
+    "id": "quark:quark_boat",
+    "namespace": "quark",
+    "path": "quark_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "quark:quark_chest_boat",
+    "namespace": "quark",
+    "path": "quark_chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "quark:shiba",
+    "namespace": "quark",
+    "path": "shiba",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.8x0.8"
+  },
+  {
+    "id": "quark:skull_pike",
+    "namespace": "quark",
+    "path": "skull_pike",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 3,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "quark:soul_bead",
+    "namespace": "quark",
+    "path": "soul_bead",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.0x0.0"
+  },
+  {
+    "id": "quark:stoneling",
+    "namespace": "quark",
+    "path": "stoneling",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.5x0.9"
+  },
+  {
+    "id": "quark:stool",
+    "namespace": "quark",
+    "path": "stool",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 3,
+    "dimensions": "0.375x0.5"
+  },
+  {
+    "id": "quark:torch_arrow",
+    "namespace": "quark",
+    "path": "torch_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "quark:toretoise",
+    "namespace": "quark",
+    "path": "toretoise",
+    "category": "CREATURE",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "2.0x1.0"
+  },
+  {
+    "id": "quark:totem",
+    "namespace": "quark",
+    "path": "totem",
+    "category": "MISC",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.5x1.0"
+  },
+  {
+    "id": "quark:wraith",
+    "namespace": "quark",
+    "path": "wraith",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "sealife:anchovy",
+    "namespace": "sealife",
+    "path": "anchovy",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "sealife:angelfish",
+    "namespace": "sealife",
+    "path": "angelfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "sealife:anglerfish",
+    "namespace": "sealife",
+    "path": "anglerfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.6"
+  },
+  {
+    "id": "sealife:bass",
+    "namespace": "sealife",
+    "path": "bass",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.5"
+  },
+  {
+    "id": "sealife:blue_tang",
+    "namespace": "sealife",
+    "path": "blue_tang",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "sealife:bowfin",
+    "namespace": "sealife",
+    "path": "bowfin",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.9x0.3"
+  },
+  {
+    "id": "sealife:butterflyfish",
+    "namespace": "sealife",
+    "path": "butterflyfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "sealife:chub",
+    "namespace": "sealife",
+    "path": "chub",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:damselfish",
+    "namespace": "sealife",
+    "path": "damselfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "sealife:electric_ray",
+    "namespace": "sealife",
+    "path": "electric_ray",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:lamprey",
+    "namespace": "sealife",
+    "path": "lamprey",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "1.0x0.2"
+  },
+  {
+    "id": "sealife:lungfish",
+    "namespace": "sealife",
+    "path": "lungfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:manta_ray",
+    "namespace": "sealife",
+    "path": "manta_ray",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "3.5x0.5"
+  },
+  {
+    "id": "sealife:minnow",
+    "namespace": "sealife",
+    "path": "minnow",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "sealife:neon_tetra",
+    "namespace": "sealife",
+    "path": "neon_tetra",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "sealife:northern_pike",
+    "namespace": "sealife",
+    "path": "northern_pike",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:perch",
+    "namespace": "sealife",
+    "path": "perch",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.5"
+  },
+  {
+    "id": "sealife:pickerel",
+    "namespace": "sealife",
+    "path": "pickerel",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.5"
+  },
+  {
+    "id": "sealife:piranha",
+    "namespace": "sealife",
+    "path": "piranha",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:pupfish",
+    "namespace": "sealife",
+    "path": "pupfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "sealife:sardine",
+    "namespace": "sealife",
+    "path": "sardine",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "sealife:siamese_fighting_fish",
+    "namespace": "sealife",
+    "path": "siamese_fighting_fish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.3"
+  },
+  {
+    "id": "sealife:silver_stripe_blaasop",
+    "namespace": "sealife",
+    "path": "silver_stripe_blaasop",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:stingray",
+    "namespace": "sealife",
+    "path": "stingray",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:trout",
+    "namespace": "sealife",
+    "path": "trout",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:tuna",
+    "namespace": "sealife",
+    "path": "tuna",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.5"
+  },
+  {
+    "id": "sealife:walleye",
+    "namespace": "sealife",
+    "path": "walleye",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "sealife:whitemargin_stargazer",
+    "namespace": "sealife",
+    "path": "whitemargin_stargazer",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.7x0.5"
+  },
+  {
+    "id": "sophisticatedbackpacks:everlasting_backpack_item",
+    "namespace": "sophisticatedbackpacks",
+    "path": "everlasting_backpack_item",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "supplementaries:bomb",
+    "namespace": "supplementaries",
+    "path": "bomb",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "supplementaries:brick_projectile",
+    "namespace": "supplementaries",
+    "path": "brick_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "supplementaries:cannon_boat",
+    "namespace": "supplementaries",
+    "path": "cannon_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "supplementaries:cannonball",
+    "namespace": "supplementaries",
+    "path": "cannonball",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.75x0.75"
+  },
+  {
+    "id": "supplementaries:falling_ash",
+    "namespace": "supplementaries",
+    "path": "falling_ash",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "supplementaries:falling_sack",
+    "namespace": "supplementaries",
+    "path": "falling_sack",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "supplementaries:falling_urn",
+    "namespace": "supplementaries",
+    "path": "falling_urn",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.98x0.98"
+  },
+  {
+    "id": "supplementaries:hat_stand",
+    "namespace": "supplementaries",
+    "path": "hat_stand",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.625x0.75"
+  },
+  {
+    "id": "supplementaries:pearl_marker",
+    "namespace": "supplementaries",
+    "path": "pearl_marker",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.999x0.999"
+  },
+  {
+    "id": "supplementaries:plunderer",
+    "namespace": "supplementaries",
+    "path": "plunderer",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "supplementaries:red_merchant",
+    "namespace": "supplementaries",
+    "path": "red_merchant",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "supplementaries:rope_arrow",
+    "namespace": "supplementaries",
+    "path": "rope_arrow",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "supplementaries:slimeball_projectile",
+    "namespace": "supplementaries",
+    "path": "slimeball_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "supplementaries:slingshot_projectile",
+    "namespace": "supplementaries",
+    "path": "slingshot_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 6,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "takesapillage:archer",
+    "namespace": "takesapillage",
+    "path": "archer",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "takesapillage:clay_golem",
+    "namespace": "takesapillage",
+    "path": "clay_golem",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.4x2.7"
+  },
+  {
+    "id": "takesapillage:legioner",
+    "namespace": "takesapillage",
+    "path": "legioner",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "takesapillage:skirmisher",
+    "namespace": "takesapillage",
+    "path": "skirmisher",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "unusualend:benevolent_leeching_charge_projectile",
+    "namespace": "unusualend",
+    "path": "benevolent_leeching_charge_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "unusualend:block_updater",
+    "namespace": "unusualend",
+    "path": "block_updater",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.2x0.2"
+  },
+  {
+    "id": "unusualend:bluk",
+    "namespace": "unusualend",
+    "path": "bluk",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 16,
+    "dimensions": "0.6x0.5"
+  },
+  {
+    "id": "unusualend:bolok",
+    "namespace": "unusualend",
+    "path": "bolok",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.8x0.6"
+  },
+  {
+    "id": "unusualend:bond_leeching_charge_projectile",
+    "namespace": "unusualend",
+    "path": "bond_leeching_charge_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "unusualend:dragling",
+    "namespace": "unusualend",
+    "path": "dragling",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.7"
+  },
+  {
+    "id": "unusualend:ender_blob",
+    "namespace": "unusualend",
+    "path": "ender_blob",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.8x0.4"
+  },
+  {
+    "id": "unusualend:ender_firefly",
+    "namespace": "unusualend",
+    "path": "ender_firefly",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.7x0.5"
+  },
+  {
+    "id": "unusualend:enderblob_queen",
+    "namespace": "unusualend",
+    "path": "enderblob_queen",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "1.9x3.0"
+  },
+  {
+    "id": "unusualend:enderbulb",
+    "namespace": "unusualend",
+    "path": "enderbulb",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.8x1.2"
+  },
+  {
+    "id": "unusualend:endstone_golem",
+    "namespace": "unusualend",
+    "path": "endstone_golem",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 128,
+    "dimensions": "1.8x2.95"
+  },
+  {
+    "id": "unusualend:endstone_trapper",
+    "namespace": "unusualend",
+    "path": "endstone_trapper",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x1.05"
+  },
+  {
+    "id": "unusualend:glub",
+    "namespace": "unusualend",
+    "path": "glub",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.75x1.0"
+  },
+  {
+    "id": "unusualend:leeching_charge_projectile",
+    "namespace": "unusualend",
+    "path": "leeching_charge_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "unusualend:phantom_arrow_projectile",
+    "namespace": "unusualend",
+    "path": "phantom_arrow_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "unusualend:shiny_grenade_projectile",
+    "namespace": "unusualend",
+    "path": "shiny_grenade_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "unusualend:small_enderbulb",
+    "namespace": "unusualend",
+    "path": "small_enderbulb",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.4x0.4"
+  },
+  {
+    "id": "unusualend:spunkler",
+    "namespace": "unusualend",
+    "path": "spunkler",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.8x0.8"
+  },
+  {
+    "id": "unusualend:summoned_dragling",
+    "namespace": "unusualend",
+    "path": "summoned_dragling",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x1.8"
+  },
+  {
+    "id": "unusualend:undead_enderling",
+    "namespace": "unusualend",
+    "path": "undead_enderling",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.6x1.45"
+  },
+  {
+    "id": "unusualend:void_arrow_projectile",
+    "namespace": "unusualend",
+    "path": "void_arrow_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "unusualend:void_bomb",
+    "namespace": "unusualend",
+    "path": "void_bomb",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "1.0x1.0"
+  },
+  {
+    "id": "unusualend:void_crack",
+    "namespace": "unusualend",
+    "path": "void_crack",
+    "category": "MONSTER",
+    "fire_immune": true,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.2x0.2"
+  },
+  {
+    "id": "unusualend:wandering_pearl_projectile",
+    "namespace": "unusualend",
+    "path": "wandering_pearl_projectile",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "unusualend:warped_balloon",
+    "namespace": "unusualend",
+    "path": "warped_balloon",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 16,
+    "dimensions": "1.4x1.6"
+  },
+  {
+    "id": "unusualend:warped_balloon_proj",
+    "namespace": "unusualend",
+    "path": "warped_balloon_proj",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "upgrade_aquatic:box_jellyfish",
+    "namespace": "upgrade_aquatic",
+    "path": "box_jellyfish",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.75x0.625"
+  },
+  {
+    "id": "upgrade_aquatic:cassiopea_jellyfish",
+    "namespace": "upgrade_aquatic",
+    "path": "cassiopea_jellyfish",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6875x0.25"
+  },
+  {
+    "id": "upgrade_aquatic:flare",
+    "namespace": "upgrade_aquatic",
+    "path": "flare",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.9x0.5"
+  },
+  {
+    "id": "upgrade_aquatic:goose",
+    "namespace": "upgrade_aquatic",
+    "path": "goose",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.5x0.9"
+  },
+  {
+    "id": "upgrade_aquatic:great_thrasher",
+    "namespace": "upgrade_aquatic",
+    "path": "great_thrasher",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "2.8x1.575"
+  },
+  {
+    "id": "upgrade_aquatic:immortal_jellyfish",
+    "namespace": "upgrade_aquatic",
+    "path": "immortal_jellyfish",
+    "category": "WATER_CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.625x0.5"
+  },
+  {
+    "id": "upgrade_aquatic:lionfish",
+    "namespace": "upgrade_aquatic",
+    "path": "lionfish",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.6x0.5"
+  },
+  {
+    "id": "upgrade_aquatic:nautilus",
+    "namespace": "upgrade_aquatic",
+    "path": "nautilus",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.6x0.6"
+  },
+  {
+    "id": "upgrade_aquatic:perch",
+    "namespace": "upgrade_aquatic",
+    "path": "perch",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.6x0.5"
+  },
+  {
+    "id": "upgrade_aquatic:pike",
+    "namespace": "upgrade_aquatic",
+    "path": "pike",
+    "category": "WATER_AMBIENT",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.7x0.4"
+  },
+  {
+    "id": "upgrade_aquatic:sonar_wave",
+    "namespace": "upgrade_aquatic",
+    "path": "sonar_wave",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "1.0x1.0"
+  },
+  {
+    "id": "upgrade_aquatic:thrasher",
+    "namespace": "upgrade_aquatic",
+    "path": "thrasher",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "1.6x0.9"
+  },
+  {
+    "id": "vibrantparrots:parrot",
+    "namespace": "vibrantparrots",
+    "path": "parrot",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 8,
+    "dimensions": "0.5x0.9"
+  },
+  {
+    "id": "vibrantparrots:parrot_egg",
+    "namespace": "vibrantparrots",
+    "path": "parrot_egg",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "vinery:chair",
+    "namespace": "vinery",
+    "path": "chair",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.001x0.001"
+  },
+  {
+    "id": "vinery:dark_cherry_boat",
+    "namespace": "vinery",
+    "path": "dark_cherry_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "vinery:dark_cherry_chest_boat",
+    "namespace": "vinery",
+    "path": "dark_cherry_chest_boat",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.375x0.5625"
+  },
+  {
+    "id": "vinery:mule",
+    "namespace": "vinery",
+    "path": "mule",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x1.87"
+  },
+  {
+    "id": "vinery:wandering_winemaker",
+    "namespace": "vinery",
+    "path": "wandering_winemaker",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.6x1.95"
+  },
+  {
+    "id": "wildernature:beaver",
+    "namespace": "wildernature",
+    "path": "beaver",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.6x0.5"
+  },
+  {
+    "id": "wildernature:bison",
+    "namespace": "wildernature",
+    "path": "bison",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.8x2.2"
+  },
+  {
+    "id": "wildernature:boar",
+    "namespace": "wildernature",
+    "path": "boar",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.1x1.1"
+  },
+  {
+    "id": "wildernature:bone",
+    "namespace": "wildernature",
+    "path": "bone",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.25x0.25"
+  },
+  {
+    "id": "wildernature:bullet",
+    "namespace": "wildernature",
+    "path": "bullet",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "0.3125x0.3125"
+  },
+  {
+    "id": "wildernature:cassowary",
+    "namespace": "wildernature",
+    "path": "cassowary",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.8x0.8"
+  },
+  {
+    "id": "wildernature:dog",
+    "namespace": "wildernature",
+    "path": "dog",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.9x1.3"
+  },
+  {
+    "id": "wildernature:elephant",
+    "namespace": "wildernature",
+    "path": "elephant",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "2.5x3.5"
+  },
+  {
+    "id": "wildernature:giraffe",
+    "namespace": "wildernature",
+    "path": "giraffe",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.5x3.5"
+  },
+  {
+    "id": "wildernature:glowing_block",
+    "namespace": "wildernature",
+    "path": "glowing_block",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 64,
+    "dimensions": "1.0x1.0"
+  },
+  {
+    "id": "wildernature:hedgehog",
+    "namespace": "wildernature",
+    "path": "hedgehog",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.3x0.3"
+  },
+  {
+    "id": "wildernature:hippo",
+    "namespace": "wildernature",
+    "path": "hippo",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "2.0x2.4"
+  },
+  {
+    "id": "wildernature:lion",
+    "namespace": "wildernature",
+    "path": "lion",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "1.0x1.2"
+  },
+  {
+    "id": "wildernature:scorpion",
+    "namespace": "wildernature",
+    "path": "scorpion",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.4x0.4"
+  },
+  {
+    "id": "wildernature:squirrel",
+    "namespace": "wildernature",
+    "path": "squirrel",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.4x0.9"
+  },
+  {
+    "id": "wildernature:termite",
+    "namespace": "wildernature",
+    "path": "termite",
+    "category": "CREATURE",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 5,
+    "dimensions": "0.2x0.2"
+  },
+  {
+    "id": "yungscavebiomes:ice_cube",
+    "namespace": "yungscavebiomes",
+    "path": "ice_cube",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "1.6x1.5"
+  },
+  {
+    "id": "yungscavebiomes:icicle",
+    "namespace": "yungscavebiomes",
+    "path": "icicle",
+    "category": "MISC",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 4,
+    "dimensions": "0.5x0.5"
+  },
+  {
+    "id": "yungscavebiomes:sand_snapper",
+    "namespace": "yungscavebiomes",
+    "path": "sand_snapper",
+    "category": "MONSTER",
+    "fire_immune": false,
+    "summonable": true,
+    "tracking_range": 10,
+    "dimensions": "0.9x0.5"
+  }
+]

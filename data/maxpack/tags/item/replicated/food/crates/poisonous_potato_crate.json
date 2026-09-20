@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearthandharvest:poisonous_potato_create",
+      "required": false
+    },
+    {
+      "id": "createdelight:poisonous_potato_crate",
+      "required": false
+    }
+  ]
+}

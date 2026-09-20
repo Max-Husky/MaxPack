@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "culturaldelights:wild_corn",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:wild_corn",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mca:rose_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "just_in_cave:rose_gold_ingot",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "environmental:koi",
+      "required": false
+    },
+    {
+      "id": "sealife:koi",
+      "required": false
+    }
+  ]
+}

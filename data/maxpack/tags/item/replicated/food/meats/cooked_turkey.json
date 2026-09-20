@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "autumnity:cooked_turkey",
+      "required": false
+    }, {
+      "id": "wildernature:cooked_turkey_meat",
+      "required": false
+    }
+  ]
+}

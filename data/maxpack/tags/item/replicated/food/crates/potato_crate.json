@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "quark:potato_crate",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:potato_bag",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:potato_crate",
+      "required": false
+    }
+  ]
+}

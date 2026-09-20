@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearthandharvest:golden_carrot_crate",
+      "required": false
+    },
+    {
+      "id": "quark:golden_carrot_crate",
+      "required": false
+    },
+    {
+      "id": "cratedelight:golden_carrot_crate",
+      "required": false
+    }
+  ]
+}

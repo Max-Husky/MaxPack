@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "culturaldelights:corn_kernels",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:kernels",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:corn_kernels",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "caverns_and_chasms:copper_sword",
+      "required": false
+    },
+    {
+      "id": "just_in_cave:copper_sword",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:rotten_tomato",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:rotten_tomato",
+      "required": false
+    }
+  ]
+}

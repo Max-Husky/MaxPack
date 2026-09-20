@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farm_and_charm:simple_tomato_soup",
+      "required": false
+    },
+    {
+      "id": "candlelight:tomato_soup",
+      "required": false
+    }
+  ]
+}

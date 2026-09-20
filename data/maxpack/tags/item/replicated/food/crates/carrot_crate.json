@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "quark:carrot_crate",
+      "required": false
+    },
+    {
+      "id": "farm_and_charm:carrot_block",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:carrot_crate",
+      "required": false
+    }
+  ]
+}
