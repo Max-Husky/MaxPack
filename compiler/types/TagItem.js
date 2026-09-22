@@ -1,6 +1,7 @@
 const ResourceLocation = require('./ResourceLocation.js');
 
 /**
+ * A tag item represents a single item within a tag
  * @class
  * @immutable
  */
